@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Driver/DriverMatcher.csproj" />
+  <Project Path="DriverMatcherTest/DriverMatcherTest.csproj" Id="ea8fde11-50d3-452f-a0fb-1c923499c4ce" />
+</Solution>
